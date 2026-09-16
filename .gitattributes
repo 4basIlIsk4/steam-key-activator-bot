@@ -1,0 +1,7 @@
+*.min.js linguist-generated
+public/index.html linguist-vendored
+src/*.ts linguist-detectable
+*.gif binary
+*.jpeg binary
+*.woff2 binary
+public/** linguist-vendored
